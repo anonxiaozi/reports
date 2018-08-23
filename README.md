@@ -1,5 +1,5 @@
 巡检报表
-```python
+'''python
 #!/usr/bin/env python3
 
 """
@@ -157,4 +157,4 @@ def run():
 if __name__ == '__main__':
     run()
 
-```
+'''
